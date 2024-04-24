@@ -1,0 +1,64 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+iframe{
+    display: inline;
+    align-items: center;
+    text-justify: center;
+    background: white;
+    text-align: center;
+}
+h1,
+h2,
+h3
+{
+    text-align: center;
+    color: red;
+}
+
+body{
+align-content: center;
+    background: rgb(234, 234, 234);
+    color:black;
+}
+
+nav{
+    padding: 80px;
+    display: block;
+    text-decoration: none;
+    width: 100%;
+    background: rgb(12, 30, 0);
+    
+}
+nav li{
+    display: inline;
+    text-decoration: none;
+    padding: 10px;
+    font-size: larger;
+    color: white;
+    
+    
+}
+li a{
+    align-items: flex-end;
+    color: white;
+}
+
+header{
+    width: 100%;
+    
+    background: url(/img/Screenshot\ 2021-12-26\ 10-03-03.png) no-repeat;
+    background-size: cover;
+    background-position: center;
+    min-height: 50dvh;
+}
+footer{
+    padding: 40px;
+    width: 100;
+    padding-top: 20px;
+    background-color: transparent;
+    position: relative;
+    padding-bottom: 0;
+}
