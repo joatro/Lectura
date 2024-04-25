@@ -1,26 +1,37 @@
 *{
     padding: 0;
     margin: 0;
+    box-sizing: border-box;
 }
 
-iframe{
-    display: inline;
+.contenido{
+   max-width:  100%;
+    height: fit-content;
+    
+    display: flex;
+   
+    flex-direction: column;
     align-items: center;
-    text-justify: center;
-    background: white;
+    justify-content: center;
+    background: rgba(255, 255, 255, 0.47);
     text-align: center;
+    padding: 2% 25%;
+    
+}
+p{
+    color:red;
 }
 h1,
 h2,
 h3
 {
     text-align: center;
-    color: red;
+    color: rgb(0, 0, 0);
 }
 
 body{
 align-content: center;
-    background: rgb(234, 234, 234);
+    background: rgb(211, 211, 211);
     color:black;
 }
 
@@ -29,7 +40,7 @@ nav{
     display: block;
     text-decoration: none;
     width: 100%;
-    background: rgb(12, 30, 0);
+    background: rgba(152, 76, 0, 0.696);
     
 }
 nav li{
@@ -44,12 +55,14 @@ nav li{
 li a{
     align-items: flex-end;
     color: white;
+    text-decoration: none;
 }
 
 header{
     width: 100%;
+    padding-top: 100px;
     
-    background: url(/img/Screenshot\ 2021-12-26\ 10-03-03.png) no-repeat;
+    background: url;
     background-size: cover;
     background-position: center;
     min-height: 50dvh;
