@@ -30,7 +30,7 @@ h3
 
 body{
 align-content: center;
-    background: rgb(211, 211, 211);
+    background: linear-gradient(to right,rgba(0,0,0,.4),rgba(0,0,0,.4)), rgb(255, 255, 255);
     color:black;
 }
 
