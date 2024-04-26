@@ -58,13 +58,14 @@ li a{
 
 header{
     width: 98%;
-    padding-top: 100px;
+    padding-left: 100px ;
     
     background: url(/img/giphy\ 3.gif) no-repeat;
     background-size: cover;
     background-position: center;
     background-size: cover;
     min-height: 50dvh;
+    
 }
 footer{
     padding: 40px;
