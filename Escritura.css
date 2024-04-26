@@ -18,6 +18,7 @@
 p{
     color:black;
     text-align: left;
+    padding: 20px;
 }
 h1,
 h2,
@@ -58,7 +59,6 @@ li a{
 
 header{
     width: 98%;
-    padding-left: 100px ;
     
     background: url(/img/giphy\ 3.gif) no-repeat;
     background-size: cover;
