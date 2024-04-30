@@ -41,6 +41,9 @@ h3
     text-align: center;
     color: rgb(0, 0, 0);
 }
+h6{
+    color: white;
+}
 
 body{
 align-content: center;
@@ -82,10 +85,15 @@ header{
     
 }
 footer{
-    padding: 40px;
-    width: 100;
-    padding-top: 20px;
-    background-color: transparent;
-    position: relative;
-    padding-bottom: 0;
+    width: 100%;
+    margin:0 auto;
+    bottom: 0;
+    position: fixed;
+    text-align: center;
+    padding: 12px;
+    font-size: 75%;
+    border: 2px solid rgb(255, 255, 255);
+    background: rgba(0, 6, 47, 0.92) ;
+    bottom: 0;
+  
 }
