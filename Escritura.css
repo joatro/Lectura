@@ -13,7 +13,7 @@
     padding:20px;
     margin:auto; 
     background: white;
-    border: #cccccc57 .03px solid;
+    border: #cccccc60 .03px solid;
 
 }
 
@@ -76,7 +76,6 @@ li a{
 
 header{
     width: 98%;
-    
     background: url(/img/giphy\ 3.gif) no-repeat;
     background-size: cover;
     background-position: center;
