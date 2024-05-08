@@ -5,9 +5,6 @@ window.addEventListener('load',function(){
     imagenes[1] = 'img/Gracias.gif';
     imagenes[2] = 'img/istapage.webp';
 
-  
-   
-
     var indiceImagenes = 0;
     var tiempo = 6000;
     function cambiarImagenes(){
@@ -22,5 +19,3 @@ window.addEventListener('load',function(){
 
     setInterval(cambiarImagenes,tiempo);
 });
-
-
