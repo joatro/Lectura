@@ -42,7 +42,7 @@ h3
     color: rgb(0, 0, 0);
 }
 h6{
-    color: white;
+    color: burlywood
 }
 
 body{
@@ -92,7 +92,7 @@ footer{
     padding: 12px;
     font-size: 75%;
 
-    background: rgb(3, 3, 20);
+    background: rgba(8, 8, 8, 0.862);
     bottom: 0;
   
 }
